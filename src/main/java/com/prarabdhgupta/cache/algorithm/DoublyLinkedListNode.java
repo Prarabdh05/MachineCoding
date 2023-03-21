@@ -1,4 +1,4 @@
-package com.prarabdhgupta.algorithm;
+package com.prarabdhgupta.cache.algorithm;
 
 import lombok.Getter;
 

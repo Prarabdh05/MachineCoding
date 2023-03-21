@@ -1,7 +1,7 @@
 package com.prarabdhgupta.cache.policies;
 
-import com.prarabdhgupta.algorithm.DoublyLinkedList;
-import com.prarabdhgupta.algorithm.DoublyLinkedListNode;
+import com.prarabdhgupta.cache.algorithm.DoublyLinkedList;
+import com.prarabdhgupta.cache.algorithm.DoublyLinkedListNode;
 
 import java.util.HashMap;
 import java.util.Map;
